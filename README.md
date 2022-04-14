@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pscager
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java and C++, and studying at PJATK
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creative tasks :)
 - 📫 How to reach me przemyslawsmyl@gmail.com
 
 <!---
