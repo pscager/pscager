@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pscager
+- 👋 Hi, I’m Przemyslaw Smyl aka @pscager
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java and C++, and studying at PJATK
 - 💞️ I’m looking to collaborate on creative tasks :)
